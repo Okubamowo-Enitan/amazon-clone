@@ -1,0 +1,16 @@
+{
+	"name": "amazonclone",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "npx tailwindcss -i ./amazon.css -o ./output.css --minify",
+		"watch": "npx tailwindcss -i ./amazon.css -o ./output.css --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"tailwindcss": "^3.4.14"
+	}
+}

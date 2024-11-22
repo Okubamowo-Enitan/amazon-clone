@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="50" height="30">
+  <rect width="640" height="480" fill="#b22234" />
+  <path fill="#fff" d="M0 37.5h640v37.5H0zm0 75h640v37.5H0zm0 75h640v37.5H0zm0 75h640v37.5H0zm0 75h640v37.5H0zm0 75h640v37.5H0z" />
+  <path fill="#3c3b6e" d="M0 0h300v210H0z" />
+  <g fill="#fff">
+    <g id="d">
+      <g id="c">
+        <g id="e">
+          <g id="b">
+            <path id="a" d="M6 0L2 9h8zm0 6l-8 6h16z" transform="translate(0 7)" />
+            <use xlink:href="#a" transform="translate(30)" />
+          </g>
+          <use xlink:href="#b" transform="translate(60)" />
+        </g>
+        <use xlink:href="#b" transform="translate(120)" />
+        <use xlink:href="#e" transform="translate(180)" />
+      </g>
+      <use xlink:href="#c" transform="translate(0 14)" />
+    </g>
+    <use xlink:href="#d" transform="translate(0 28)" />
+  </g>
+</svg>
